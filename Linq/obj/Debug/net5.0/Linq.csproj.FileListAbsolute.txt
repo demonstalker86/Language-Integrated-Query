@@ -1,0 +1,16 @@
+E:\Project\Csharp\Linq\Linq\bin\Debug\net5.0\Linq.exe
+E:\Project\Csharp\Linq\Linq\bin\Debug\net5.0\Linq.deps.json
+E:\Project\Csharp\Linq\Linq\bin\Debug\net5.0\Linq.runtimeconfig.json
+E:\Project\Csharp\Linq\Linq\bin\Debug\net5.0\Linq.runtimeconfig.dev.json
+E:\Project\Csharp\Linq\Linq\bin\Debug\net5.0\Linq.dll
+E:\Project\Csharp\Linq\Linq\bin\Debug\net5.0\ref\Linq.dll
+E:\Project\Csharp\Linq\Linq\bin\Debug\net5.0\Linq.pdb
+E:\Project\Csharp\Linq\Linq\obj\Debug\net5.0\Linq.csproj.AssemblyReference.cache
+E:\Project\Csharp\Linq\Linq\obj\Debug\net5.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Csharp\Linq\Linq\obj\Debug\net5.0\Linq.AssemblyInfoInputs.cache
+E:\Project\Csharp\Linq\Linq\obj\Debug\net5.0\Linq.AssemblyInfo.cs
+E:\Project\Csharp\Linq\Linq\obj\Debug\net5.0\Linq.csproj.CoreCompileInputs.cache
+E:\Project\Csharp\Linq\Linq\obj\Debug\net5.0\Linq.dll
+E:\Project\Csharp\Linq\Linq\obj\Debug\net5.0\ref\Linq.dll
+E:\Project\Csharp\Linq\Linq\obj\Debug\net5.0\Linq.pdb
+E:\Project\Csharp\Linq\Linq\obj\Debug\net5.0\Linq.genruntimeconfig.cache
